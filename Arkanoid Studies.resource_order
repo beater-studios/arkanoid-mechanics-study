@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Ball","order":1,"path":"objects/obj_Ball/obj_Ball.yy",},
+    {"name":"obj_GreenBlock","order":1,"path":"objects/obj_GreenBlock/obj_GreenBlock.yy",},
+    {"name":"obj_GreyBlock","order":2,"path":"objects/obj_GreyBlock/obj_GreyBlock.yy",},
+    {"name":"obj_PurpleBlock","order":3,"path":"objects/obj_PurpleBlock/obj_PurpleBlock.yy",},
+    {"name":"obj_RedBlock","order":4,"path":"objects/obj_RedBlock/obj_RedBlock.yy",},
+    {"name":"obj_YellowBlock","order":5,"path":"objects/obj_YellowBlock/obj_YellowBlock.yy",},
+    {"name":"spr_Background","order":8,"path":"sprites/spr_Background/spr_Background.yy",},
+    {"name":"spr_Ball","order":1,"path":"sprites/spr_Ball/spr_Ball.yy",},
+    {"name":"spr_Ball10","order":10,"path":"sprites/spr_Ball10/spr_Ball10.yy",},
+    {"name":"spr_GreenBlock","order":1,"path":"sprites/spr_GreenBlock/spr_GreenBlock.yy",},
+    {"name":"spr_GreyBlock","order":2,"path":"sprites/spr_GreyBlock/spr_GreyBlock.yy",},
+    {"name":"spr_PurpleBlock","order":3,"path":"sprites/spr_PurpleBlock/spr_PurpleBlock.yy",},
+    {"name":"spr_RedBlock","order":4,"path":"sprites/spr_RedBlock/spr_RedBlock.yy",},
+    {"name":"spr_YellowBlock","order":5,"path":"sprites/spr_YellowBlock/spr_YellowBlock.yy",},
+  ],
+}
